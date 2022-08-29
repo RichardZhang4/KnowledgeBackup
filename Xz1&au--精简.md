@@ -1,8 +1,8 @@
 安装环境：WIndows 10
-# 刷机前，
-A备份重要数据
-B确认谷歌账号已退出
-C删掉锁屏密码
+# 刷机前，**重要**
+1. 备份重要数据
+2. 确认谷歌账号已退出
+3. 删掉锁屏密码
 
 # 降级安卓8
 1. 先降级到安卓8，路径Sony\Rom\root，安装Sony_Mobile_Software_Update_Drivers_x64_Setup驱动
